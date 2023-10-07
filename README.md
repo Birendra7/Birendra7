@@ -23,10 +23,10 @@
 🤝 Let's connect and code together! I'm always open to collaboration, learning from others, and sharing knowledge. Feel free to reach out, and let's make the tech world a better place, one commit at a time. 🚀
 
 📫 Contact me:
-📧 Email: birendraraaz620@gmail.com
-🌐 LinkedIn: www.linkedin.com/in/birendra-kumar-956b4019a
-🌐 Fast Reply Email: birendraraaz620@outlook.com
+📧 Email: birendraraaz620@gmail.com<br>
+🌐 LinkedIn: www.linkedin.com/in/birendra-kumar-956b4019a<br>
+🌐 Fast Reply Email: birendraraaz620@outlook.com<br>
 
-Happy coding! 🚴‍♂️🚀
+Happy coding! 🚴‍♂️🚀<br>
 
 #CodeWithPassion #BCAGrad #MCALife #WebDev #MobileDev #OpenSource
