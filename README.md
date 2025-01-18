@@ -1,17 +1,12 @@
 👨‍💻 MCA Student | 🎓 BCA Graduate | 📚 Passionate Learner | 💡 Aspiring Developer | 🚀 Open-Source Enthusiast 
 
-👋 Hello, fellow coders! I'm Birendra Kumar, a dedicated MCA student on a journey to explore the world of software development. I'm constantly curious about all things tech and love to tinker with code.
-
+👋 Hello, fellow coders! I am a dedicated MCA student specializing in Artificial Intelligence and Machine Learning, with a solid background in data analysis and software development. My experience includes internships where I utilized SQL and data visualization tools to derive insights, significantly enhancing decision-making processes. I am passionate about leveraging data to drive business strategies and continuously improving my skills in analytics.
 🌟 Here's a glimpse of what I'm up to:
-- 🎓 Pursuing my Master's in Computer Applications.
-- 💻 Exploring the realms of web development, mobile apps, and more.
-- 📚 Constantly learning and growing in the ever-evolving tech landscape.
-- ✨ Collaborating on open-source projects to contribute to the community.
-- 🚀 Dreaming of building innovative solutions that make an impact.
+
 
 🔧 Tech Stack:
 - 💡 Languages: C, C++, Java, Python, JavaScript
-- 🌐 Web Development: HTML, CSS, React
+- 🌐 Web Development: HTML, CSS, Flask, streamlit
 - 📱 Mobile App Dev: Flutter
 - 📦 Databases: MySQL, MongoDB
 - 🧩 Tools: VSCode, Git, Linux
@@ -24,7 +19,7 @@
 
 📫 Contact me:
 📧 Email: birendraraaz620@gmail.com<br>
-🌐 LinkedIn: www.linkedin.com/in/birendra-kumar-956b4019a<br>
+🌐 LinkedIn: www.linkedin.com/in/yadav-birendra/<br>
 🌐 Fast Reply Email: birendraraaz620@outlook.com<br>
 
 Happy coding! 🚴‍♂️🚀<br>
