@@ -1,4 +1,4 @@
-👨‍💻 MCA Student | 🎓 BCA Graduate | 📚 Passionate Learner | 💡 Aspiring Developer | 🚀 Open-Source Enthusiast 
+👨‍💻 MCA Student | 🎓 BCA Graduate | 📚 Passionate Learner | 💡 Aspiring Data Scientice | 🚀 Open-Source Enthusiast 
 
 👋 Hello, fellow coders! I am a dedicated MCA student specializing in Artificial Intelligence and Machine Learning, with a solid background in data analysis and software development. My experience includes internships where I utilized SQL and data visualization tools to derive insights, significantly enhancing decision-making processes. I am passionate about leveraging data to drive business strategies and continuously improving my skills in analytics.
 🌟 Here's a glimpse of what I'm up to:
